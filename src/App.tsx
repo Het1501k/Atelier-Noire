@@ -116,7 +116,7 @@ function App() {
     className="absolute inset-0 h-full w-full object-cover"
   >
     <source
-      src="/public/hero-video.mp4"
+      src="/hero-video.mp4"
       type="video/mp4"
     />
   </video>
